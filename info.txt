@@ -1,3 +1,31 @@
 Atakan Şerifoğlu  - 22102313 - https://github.com/atakanserifoglu/CS-102-Github-Tutorial-Spring-2022.git
 
 Star Wars Knights of the Old Republic
+
+
+commit efc81953cb1ba860a993929b0fa3491f21c55fd5 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 748f288 b5ec9fb
+Author: Atakan Şerifoğlu <91365460+atakanserifoglu@users.noreply.github.com>
+Date:   Thu Feb 10 00:03:26 2022 +0300
+
+    Merge pull request #1 from atakanserifoglu/new_information
+    
+    Atakan Şerifoğlu changed info in the branch
+
+commit b5ec9fbb1590ca597d85bfac553a4b2ff907bbbb (origin/new_information)
+Author: Atakan Şerifoğlu <atakanserifoglu@hotmail.com>
+Date:   Thu Feb 10 00:01:58 2022 +0300
+
+    Atakan Şerifoğlu changed info in the branch
+
+commit 748f288e63ea8aa60e023cc25e259238d7037304 (new_information)
+Author: Atakan Şerifoğlu <atakanserifoglu@hotmail.com>
+Date:   Wed Feb 9 23:55:42 2022 +0300
+
+    Atakan Şerifoğlu updated info.txt
+
+commit 1a4278c7937be172c740b69a202008c580afcc4b
+Author: Atakan Şerifoğlu <91365460+atakanserifoglu@users.noreply.github.com>
+Date:   Wed Feb 9 23:52:24 2022 +0300
+
+    Create README.md
